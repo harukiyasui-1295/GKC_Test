@@ -1,4 +1,4 @@
-//
+//  auiorueofdaaou.adocdiaoewo
 //  AppDelegate.swift
 //  TestFotGKC
 //
